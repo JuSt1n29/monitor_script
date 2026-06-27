@@ -41,4 +41,4 @@ Create a secure scripts directory, download the file, and open it for configurat
 
 ```bash
 mkdir -p ~/scripts && cd ~/scripts
-nano monitor.sh
+nano script.sh
